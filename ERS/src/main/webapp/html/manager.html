@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Manager Home</title>
+<link rel="stylesheet" type="text/css" href="../css/modal.css">
+<link rel="stylesheet" type="text/css" href="../css/managerStyle.css">
+</head>
+<body>
+
+	<!-- Grid Layout -->
+
+<body style="background: white">
+	<div class="col-12 topBanner">
+		<div class="topOptions">
+			<div id="username">Unfilled Username</div>
+			<!--  Begin Modal -->
+			<a href="index.html" class="button">Log Out</a>
+		</div>
+		
+
+</div>
+
+			<!-- The Modal -->
+			<div id="modalBlock">
+			<div id="myModal" class="modal">
+
+				<!-- Modal content -->
+				<div class="modal-content">
+					<div class="modal-header">
+						<span class="close">&times;</span>
+						<h2>Ticket Details</h2>
+					</div>
+					<div class="modal-body">
+						<div class="row">
+							<div class="column">
+								<p id="employeeNameId">Employee Name:</p>
+								<p id="amountID">Amount:</p>
+								<p id="dateSubmittedId">Date Submitted:</p>
+								<p id="dateResolvedId">Date Resolved:</p>
+								<p id="descriptionId">Description:</p>
+							</div>
+							<div class="column">
+								<p id="statusId">Status:</p>
+								<p id="expenseTypeId">Expense Type:</p>
+							</div>
+						</div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" id="approveButton"
+							class="modal-approve-button">Approve</button>
+						<button type="button" id="denyButton" class="modal-deny-button">Deny</button>
+					</div>
+
+				</div>
+			</div>
+			<div id="snackbar">Approved</div>
+		</div>
+	
+
+	<!-- Left Pane -->
+	<div id=innerDiv>
+	<input type="text" id="searchInput" onkeyup="searchFunction()"
+		placeholder="Search by Status">
+		
+		
+	<img class="topLogo" src="../img/title1.png" id="topLogo">
+		</div>
+	<table class="js-sort-table" id="table1">
+		<thead>
+			<tr>
+				<th class="js-sort-number">Ticket ID</th>
+				<th class="js-sort-number">Amount</th>
+				<th class="js-sort-date">Submission Date</th>
+				<th class="js-sort-date">Resolve Date</th>
+				<th>Description</th>
+				
+				<th>Employee ID</th>
+				
+				<th class="js-sort-string">Status</th>
+				<th class="js-sort-string">Type</th>
+			</tr>
+		</thead>
+		<tbody id="tablebody">
+			<tr>
+				<td>0001</td>
+				<td>$250.00</td>
+				<td>02/01/2020</td>
+				<td>02/01/2020</td>
+				<td>null</td>
+				<td>1000</td>
+				<td>Approved</td>
+				<td>Travel</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+	<script type="text/javascript" src="../js/adminModal.js"></script>
+	<script type="text/javascript" src="../js/Manager.js"></script>
+	<script type="text/javascript" src="../js/sort-table.js"></script>
+</body>
+</html>

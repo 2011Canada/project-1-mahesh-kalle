@@ -1,0 +1,15 @@
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\controllers\TicketController.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\models\Manager.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\util\LoggerSingleton.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\servlets\ReimbursementServlet.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\controllers\EmployeeController.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\repositories\TicketDAOInterface.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\services\ReimbursementService.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\models\User.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\util\ConnectionFactory.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\repositories\UserDAOInterface.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\controllers\ManagerController.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\controllers\LoginController.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\repositories\TicketDAO.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\repositories\UserDAO.java
+C:\Revature\Rev_Workspace\ERS5\src\main\java\com\reimbursement\models\Ticket.java

@@ -23,7 +23,7 @@ approve and deny requests for expense reimbursement.
 <li>Finance Manager can filter request based on status :Approved, Pending or Denied.</li>
 </ol>
 
-<h3>To-do list</h3>
+<h3>Getting Started</h3>
 <ul>
 <li>Clone the project into your desired folder using below command in gitbash.</li>
 git clone https://github.com/2011Canada/project-1-mahesh-kalle.git

@@ -44,6 +44,7 @@ git clone https://github.com/2011Canada/project-1-mahesh-kalle.git
 <li>The new request shows as 'Pending' state until Manager Approves/Rejects the request.</li>
 </ul
 <img src="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Login%20Page.png"/ >
+  ![picture](https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Login%20Page.png)
 
 <h4>Manager Usage:</h4>
 <ul>

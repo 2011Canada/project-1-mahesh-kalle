@@ -15,11 +15,13 @@ approve and deny requests for expense reimbursement.
 </ul>
 
 <h3>Features</h3>
-Employee can log into the system and can view all submitted request in the past. Also employee can create new reimbursment request.
-Employees must select the type of reimbursement request as: LODGING, TRAVEL, FOOD, or OTHER.
-Finance Manager can log in into the system. View All submitted request.
-Finance Manager can Approve or Reject the request submitted by employees.
-Finance Manager can filter request based on status :Approved, Pending or Denied.
+<ol>
+<li>Employee can log into the system and can view all submitted request in the past. Also employee can create new reimbursment request.</li>
+<li>Employees must select the type of reimbursement request as: LODGING, TRAVEL, FOOD, or OTHER.</li>
+<li>Finance Manager can log in into the system. View All submitted request.</li>
+<li>Finance Manager can Approve or Reject the request submitted by employees.</li>
+<li>Finance Manager can filter request based on status :Approved, Pending or Denied.</li>
+</ol>
 
 <h3>To-do list</h3>
 <ul>
@@ -42,10 +44,19 @@ git clone https://github.com/2011Canada/project-1-mahesh-kalle.git
 <li>Fill out the new request form and click on submit to submit the request. </li>
 <li>Employees must select the type of reimbursement request as: LODGING, TRAVEL, FOOD, or OTHER.</li>
 <li>The new request shows as 'Pending' state until Manager Approves/Rejects the request.</li>
-</ul
-<img src="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Login%20Page.png"/ >
-  ![picture](https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Login%20Page.png)
-
+</ul>
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Login%20Page.png"><img src="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Login%20Page.png" width="600" style="max-width:100%;"></a>
+  </div>
+  <br>
+  <div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Employee_Page.png"><img src="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Employee_Page.png" width="600" style="max-width:100%;"></a>
+  </div>
+<br>
+  <div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Ticket_Details_Employee.png"><img src="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Ticket_Details_Employee.png" width="600" style="max-width:100%;"></a>
+  </div>
+  
 <h4>Manager Usage:</h4>
 <ul>
 <li>Open the web browser and type "http://localhost:8080/ers/html/index.html" in the address bar. It will open Login page.</li>
@@ -55,3 +66,10 @@ git clone https://github.com/2011Canada/project-1-mahesh-kalle.git
 <li>Manager can approve or reject the employees request.</li>
 <li>Manager can filter request based on status :Approved, Pending or Denied.</li>
 </ul>
+ <div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Manager_Page.png"><img src="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Manager_Page.png" width="600" style="max-width:100%;"></a>
+  </div>
+<br>
+  <div align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Ticket_Details_Manager.png"><img src="https://github.com/2011Canada/project-1-mahesh-kalle/blob/main/Images/Ticket_Details_Manager.png" width="600" style="max-width:100%;"></a>
+  </div>
